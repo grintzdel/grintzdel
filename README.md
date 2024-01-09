@@ -10,7 +10,7 @@ I am Mathis, 19 years old, I live in Puy-en-Velay, France and I am in higher edu
 * 🖥️  See my portfolio at [my Notion Portfolio but im cooking the new one](http://https://gossamer-spirit-9ff.notion.site/Book-en-ligne-d3830d3459aa4fe08d38a0ce40d1dd6f?pvs=74)
 * ✉️  You can contact me at [mathis.oudin42@gmail.com](mailto:mathis.oudin42@gmail.com)
 * 🚀  I'm currently working on [My futur Portfolio site](http://github.com/grintzdel/portfolio2023-v1)
-* 🧠  I'm learning node.js, CMS like Prismic, GSAP, SASS, WebGL and some 3d stuff
+* 🧠  I'm learning node.js, CMS like Prismic, GSAP, SCSS, WebGL and some 3d stuff
 * 🤝  I'm open to collaborating on some creatives landing pages
 * ⚡  I'm looking for the One Piece but please don't tell...
 
